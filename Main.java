@@ -1,8 +1,11 @@
+import SistemaDeArquivos.*;
+
 class Main {
   public static void main(String[] args) 
     {
         Pasta nova = new Pasta("Raiz");
         nova.GetNomePasta();
+        System.out.println(nova.GetNomePasta());
         // try {
         //   // Creating a component tree
         //   Component component = new CompositeAccount();

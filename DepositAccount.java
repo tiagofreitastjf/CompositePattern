@@ -1,4 +1,5 @@
-public class DepositAccount extends Component 
+
+public class DepositAccount extends Component
 {
     private String accountNo;
     private float accountBalance;

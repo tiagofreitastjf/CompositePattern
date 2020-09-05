@@ -1,3 +1,5 @@
+package SistemaDeArquivos;
+
 public class Arquivo
 {
   private String nome;

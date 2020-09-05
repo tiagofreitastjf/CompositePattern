@@ -1,4 +1,6 @@
-public class SavingsAccount extends Component 
+
+
+public class SavingsAccount extends Component
 {
     private String accountNo;
     private float accountBalance;

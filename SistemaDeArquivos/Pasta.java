@@ -1,10 +1,12 @@
+package SistemaDeArquivos;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Pasta
 {
   private String nome;
-  private List<Arquivo> arquivos = new List<Arquivo>();
-  private List<Pasta> pastas = new List<Pasta>();
+  private List<Arquivo> arquivos = new ArrayList<Arquivo>();
+  private List<Pasta> pastas = new ArrayList<Pasta>();
 
   public Pasta(String nome)
   {
@@ -16,13 +18,13 @@ public class Pasta
     return nome;
   }
 
-  public String SetNomePasta(String nome)
+  public void SetNomePasta(String nome)
   {
     this.nome = nome;
   }
 
   public void AddPasta(Pasta nova)
   {
-    pastas.Add(nova);
+    pastas.add(nova);
   }
 }

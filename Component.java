@@ -1,4 +1,5 @@
-public abstract class Component 
+
+public abstract class Component
 {
     public abstract float getBalance();
  
