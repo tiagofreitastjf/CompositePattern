@@ -1,3 +1,4 @@
+package Composite;
 
 public class DepositAccount extends Component
 {
