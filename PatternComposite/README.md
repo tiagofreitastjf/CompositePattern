@@ -10,4 +10,4 @@
   <li>Composite</li>
   <li>Cliente</li>
 </ol>
-<img src=“http://blog.lukaszewski.it/wp-content/uploads/2013/11/coposite_diagram.png” />
+<img src=“http://blog.lukaszewski.it/wp-content/uploads/2013/11/coposite_diagram.png”/>
