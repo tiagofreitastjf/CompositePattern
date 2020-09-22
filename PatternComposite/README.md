@@ -10,4 +10,4 @@
   <li>Composite</li>
   <li>Cliente</li>
 </ol>
-<img width="500" height="500" src=“https://upload.wikimedia.org/wikipedia/commons/3/3d/CompositeBasic.gif”/>
+<img width="500" height="500" src=“http://blog.lukaszewski.it/wp-content/uploads/2013/11/coposite_diagram.png”/>
