@@ -10,4 +10,4 @@
   <li>Composite</li>
   <li>Cliente</li>
 </ol>
-<img src=“https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Composite_UML_class_diagram_%28fixed%29.svg/600px-Composite_UML_class_diagram_%28fixed%29.svg.png”>
+<img width="500" height="500" src=“https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Composite_UML_class_diagram_%28fixed%29.svg/600px-Composite_UML_class_diagram_%28fixed%29.svg.png”/>
