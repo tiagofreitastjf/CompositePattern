@@ -10,3 +10,4 @@
   <li>Composite</li>
   <li>Cliente</li>
 </ol>
+<img src=“https://github.com/tiagofreitastjf/ProgramacaoAvancada/blob/master/PatternComposite/composite_estrutura.png”>
