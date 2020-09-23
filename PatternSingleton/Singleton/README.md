@@ -1,4 +1,4 @@
-<h1>Padrão Singleton</h1>
+<h1>Padrão Singleton - Padrão de criação</h1>
 <h2>Inteção</h2>
 <p>A inteção do padrão singleton é instanciar uma única vez uma classe.</p>
 <h2>Motivação</h2>
