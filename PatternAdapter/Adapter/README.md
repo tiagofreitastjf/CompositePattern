@@ -13,5 +13,5 @@
 <p>Adaptee - classe que necessita ser adaptada.</p>
 <p>Adapter - adaptação da classe Adaptee para Target.</p>
 <h2>Exemplo de implementação</h2>
-<p>O exemplo utilizado é uma interface gráfica que precisa ser adaptada.</p>
+<p>O exemplo utilizado é uma interface gráfica que precisa ser adaptada, especificando um botão que precisa ser adaptado ao uso do programa.</p>
 <a href="https://github.com/tiagofreitastjf/ProgramacaoAvancada/tree/master/PatternAdapter/Adapter">Ver</a>
