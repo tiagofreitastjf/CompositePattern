@@ -8,10 +8,10 @@
 <h2>Estrutura</h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adapter_pattern.png"/>
 <h2>Participantes</h2>
-<p>Target</p>
-<p>Client</p>
-<p>Adaptee</p>
-<p>Adapter</p>
+<p>Target - interface de utilização do Client</p>
+<p>Client - utiliza a interface Target</p>
+<p>Adaptee - classe que necessita ser adaptada.</p>
+<p>Adapter - adaptação da classe Adaptee para Target.</p>
 <h2>Exemplo de implementação</h2>
 <p>O exemplo utilizado é uma interface gráfica que precisa ser adaptada.</p>
 <a href="https://github.com/tiagofreitastjf/ProgramacaoAvancada/tree/master/PatternAdapter/Adapter">Ver</a>
