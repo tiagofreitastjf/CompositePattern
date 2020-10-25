@@ -1,6 +1,6 @@
 <h1>Padrão Observer - Padrão comportamental</h1>
 <h2>Inteção</h2>
-<p>Define dependências entre objetos, por meio de um para muitos, permitindo que quando um objeto mude de estado todos os outros dependêntes sejam atualizados.</p>
+<p>Define dependências entre objetos, por meio de um para muitos, permitindo que quando um objeto mude de estado todos os outros dependentes sejam atualizados.</p>
 <h2>Motivação</h2>
 <p>Há momentos na construção de sistemas que existe a necessidade da comunicação entre os objetos, e essa comunicação precisa ser consistente, sem que precise acoplar muito os objetos envolvidos, como exemplo temos as interfaces gráficas, onde um label recebe o texto de uma caixa de texto logo quando é inserido um texto.</p>
 <h2>Aplicação</h2>
