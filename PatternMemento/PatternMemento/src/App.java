@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         Originator originator = new Originator();
-        Shape shape = new Shape();
+        Caretaker shape = new Caretaker();
         
         originator.setState("#1 Forma quadrada: ■");
         shape.add(originator.saveStateToMemento());

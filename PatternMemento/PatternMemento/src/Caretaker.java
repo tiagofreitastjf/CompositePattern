@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Shape {
+public class Caretaker {
     private List<Memento> mementoList = new ArrayList<Memento>();
 
     public void add(Memento state){
