@@ -14,4 +14,4 @@
 <p>ConcreteCreator - retornar uma instância de um ConcreteProduct.</p>
 <h2>Exemplo de implementação</h2>
 <p>O exemplo utilizado usa seleção de treino de academia.</p>
-<a href="https://github.com/tiagofreitastjf/ProgramacaoAvancada/tree/master/PatternState/PatternState/src">Ver</a>
+<a href="https://github.com/tiagofreitastjf/ProgramacaoAvancada/tree/master/PatternFactoryMethod/PatternFactoryMethod">Ver</a>
